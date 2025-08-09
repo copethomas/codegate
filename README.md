@@ -1,6 +1,6 @@
 # Patached CodeGate - Fixing CORS Vuln
 
-This is a fork of the CodeGate project fixing CORS security issue explained in my blog post here: https://tomcope.com/exploit/2025-05-19-codegate-exploit/
+This is a fork of the CodeGate project fixing CORS security issue explained in my blog post here: https://tomcope.com/exploit/2025-08-10-codegate-exploit/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./static/codegate-logo-white.svg">
