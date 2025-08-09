@@ -1,6 +1,6 @@
-# ⚠️ DEPRECATED ⚠️
+# Patached CodeGate - Fixing CORS Vuln
 
-CodeGate was an experimental project and is no longer maintained.
+This is a fork of the CodeGate project fixing CORS security issue explained in my blog post here: https://tomcope.com/exploit/2025-05-19-codegate-exploit/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./static/codegate-logo-white.svg">
