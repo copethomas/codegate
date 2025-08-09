@@ -59,10 +59,6 @@ def init_app(pipeline_factory: PipelineFactory) -> CodeGateServer:
 
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=["*"],
-        allow_credentials=True,
-        allow_methods=["*"],
-        allow_headers=["*"],
     )
     # Apply error handling middleware
     app.add_middleware(ServerErrorMiddleware, handler=custom_error_handler)
